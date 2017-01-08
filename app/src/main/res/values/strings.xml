@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HackForChange</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_reminder">ReminderActivity</string>
+    <string name="title_activity_add_reminder">addReminder</string>
+    <string name="title_activity_video">Video</string>
+    <string name="title_activity_locate">locate</string>
+</resources>

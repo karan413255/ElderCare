@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/health_item"
+        android:icon="@drawable/ic_local_dining_white_24dp"
+        android:title="Health" />
+    <item
+        android:id="@+id/location_item"
+        android:icon="@drawable/ic_location_on_white_24dp"
+        android:title="Location" />
+    <item
+        android:id="@+id/reminder_item"
+        android:title="Reminder"
+        android:icon="@drawable/ic_update_white_24dp"/>
+
+    <item
+        android:id="@+id/videos_item"
+        android:icon="@drawable/ic_favorite_white_24dp"
+        android:title="Videos" />
+</menu>
